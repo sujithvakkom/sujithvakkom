@@ -28,6 +28,14 @@
 
 ---
 
+## ⚡ Core Strengths
+- Complex system debugging & issue resolution  
+- Payment & POS integrations  
+- ERP data flow & middleware design  
+- Performance optimization & stability improvements
+
+---
+
 ## 📌 Featured Projects
 - 🔹 **POS Payment Integration**  
   Integrated POS systems with payment gateways ensuring secure and reliable transactions  
@@ -67,6 +75,13 @@
 - 🌍 Exploring new technologies in ERP & retail  
 - 🎵 Music | ✈️ Travel | 🏊 Swimming  
 
+---
+
+## 🔭 Currently Working On
+- Enhancing POS payment integrations
+- Improving debugging & logging frameworks
+- Exploring cloud-based ERP integrations
+  
 ---
 
 ## ✍️ Dev Quote
